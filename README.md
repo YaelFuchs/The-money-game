@@ -30,6 +30,7 @@ npm install
 
 
 פתח את קובץ ה-HTML בדפדפן או הרץ את הפרויקט עם live server.
+
 יוצרות 👩‍💻
 
 michal lewenstein – מפתחת ראשית
